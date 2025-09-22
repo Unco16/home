@@ -30,6 +30,7 @@ I maintain a home server running **Proxmox** to explore virtualization, networki
 - **VPN:** OpenVPN server for remote access + selective VLAN routing through VPN  
 - **Wi-Fi Setup:** Access points mapped to dedicated VLANs for better segmentation
 
+-----
 
 - **Pi-hole Container** – Ad blocking & local DNS  
 - **Home Assistant VM** –  
